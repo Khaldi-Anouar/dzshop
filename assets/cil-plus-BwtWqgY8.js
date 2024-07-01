@@ -1,0 +1,1 @@
+var r=["512 512","<rect width='368' height='32' x='72' y='240' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/>"],i=["512 512","<polygon fill='var(--ci-primary-color, currentColor)' points='440 240 272 240 272 72 240 72 240 240 72 240 72 272 240 272 240 440 272 440 272 272 440 272 440 240' class='ci-primary'/>"];export{i as a,r as c};
